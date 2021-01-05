@@ -1,0 +1,13 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex c54360c..78d79e5 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -144,7 +144,7 @@[m [mconst accionBotones = () => {[m
+             }else{[m
+                 carrito[btn.dataset.id] = {...producto}[m
+             }[m
+[31m-            [m
+[32m+[m[41m               [m
+             mostrarCarrito()[m
+         })[m
+     })[m
